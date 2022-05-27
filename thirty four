@@ -1,0 +1,7 @@
+tir = int(input( ))
+if tir <= 3:
+   print('принадлежит 1')
+elif tir >= 7:
+   print('принадлежит 2')
+else:
+print('не принадлежит')
